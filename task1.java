@@ -15,7 +15,7 @@ public class task1 {
         int a = 7;
         while (a > 0) {
             Scanner sc = new Scanner(System.in);
-            // user must enter the guessed number
+  
             System.out.println("Enter a Guess Number between 1 to 100");
             int num = sc.nextInt();
 
